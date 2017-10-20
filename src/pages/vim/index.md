@@ -13,4 +13,12 @@ Vim is rock stable and boasts many features including:
 - integrates with many tools
 - built-in macro support for automation text manipulation
 
+## Downloading Vim
+
+Vim is available for many different platforms and versions. The following links will help you choose the right platform for you.
+
+* MS-Windows:	Click this link to download the [self-installing executable](https://ftp.nluug.nl/pub/vim/pc/gvim80-586.exe).
+* Unix:	See the [GitHub](https://vim.sourceforge.io/git.php) page, or [Mercurial](https://vim.sourceforge.io/mercurial.php).
+* Mac:	See the [MacVim](https://github.com/macvim-dev/macvim) project
+
 For more information head to <a href='https://vim.sourceforge.io' target='_blank' rel='nofollow'>Vim's homepage</a>
