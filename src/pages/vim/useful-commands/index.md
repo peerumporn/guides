@@ -5,6 +5,10 @@ title: Useful Commands
 1. Press escape to get you into "normal" mode
 2. Type `:q`, press enter. If you receive an error try `:q!`
 
+## Moving Around
+After you return to command mode, you can move around by using these keys: h
+(left), j (down), k (up), and l (right)
+
 **OR**
 - Type ZZ (save and quit)
 - Close your terminal
