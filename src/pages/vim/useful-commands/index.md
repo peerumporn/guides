@@ -4,11 +4,8 @@ title: Useful Commands
 ## Exiting Vi, Vim, Nvim, Gvim
 1. Press escape to get you into "normal" mode
 2. Type `:q`, press enter. If you receive an error try `:q!`
-
-**OR**
-- Type ZZ (save and quit)
-- Close your terminal
-- Shut down your computer
+## Deleting Characters
+To delete a character, move the cursor over it and type x.
 
 ## Bare minimum functionality
 Most likely you'll find yourself in "normal" mode, it allows you to enter commands by pressing the colon `:` key.
