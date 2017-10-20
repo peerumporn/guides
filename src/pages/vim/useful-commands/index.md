@@ -1,6 +1,9 @@
 ---
 title: Useful Commands
 ---
+## Modes
+## Inserting Text
+Press the <Esc> key and type i to enter --INSERT-- mode. Now you can type some text and it will be inserted into the file. After you have finished inserting, press the <Esc> key. The --INSERT-- indicator disappear and you return to command mode which you can save your file.
 ## Exiting Vi, Vim, Nvim, Gvim
 1. Press escape to get you into "normal" mode
 2. Type `:q`, press enter. If you receive an error try `:q!`
